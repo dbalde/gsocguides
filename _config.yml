@@ -87,3 +87,5 @@ description: "The Google Summer of Code Mentor and Student Manuals provide inval
 
 # needed for sitemap.xml file only
 url: https://google.github.io/gsocguides
+
+theme: jekyll-theme-time-machine
