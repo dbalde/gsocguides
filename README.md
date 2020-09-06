@@ -1,5 +1,7 @@
 # Google Summer of Code Guides
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a96cb74f29bb462e92ba805dab9c676f)](https://app.codacy.com/manual/diouldebalde/gsocguides?utm_source=github.com&utm_medium=referral&utm_content=dbalde/gsocguides&utm_campaign=Badge_Grade_Settings)
+
 This project contains the Google Summer of Code Mentor Guide and Student Guide.
 
 ## Template
