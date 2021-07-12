@@ -10,10 +10,9 @@ Do you have *some* programming experience at the university level? Then, yes, yo
 
 "Although at first I was a little inexperienced in the world of mobile applications and a bit overwhelmed by the challenge, I can positively say that four months later I've gradually overcome all the obstacles. I had a great mentor, that's for sure!"
 
-Evelina Vrabie, Romania, Android Project - GSoC 2010
+Evelina Vrabie, Romania, Android Project - GSoC student
 
 Every project has a different criteria for selecting students and subsequently different skill level requirements. If you meet the below list of general skills you are likely to find a GSoC project to which you can feel comfortable applying:
-
 
 ## The soft skills
 
@@ -33,16 +32,15 @@ Since you'll be spending significant amounts of time working alone - not being a
 
 Do you think you already know everything about everything in the world of open source programming?  Then you probably aren't good enough for GSoC!
 
-
 ## The technical stuff
 
 **You can install and configure software packages on your own**
 
 If you don't know how to download and install packages on your own, you'll need to figure that out, stat.
 
-**You have access to a functioning computer 30 hours a week**
+**You have access to a functioning computer ~18 hours a week**
 
-If your computer regularly dies, or you don't have dedicated access to a computer you'll need to figure that out before you start your project. Also, GSoC should be considered a full-time commitment. Don't expect an hour or two a day in an internet cafe to be enough!
+If your computer regularly dies, or you don't have dedicated access to a computer you'll need to figure that out before you start your project. GSoC is a significant time commitment, don't expect an hour or two a day in an internet cafe to be enough!
 
 **You've got experience using the programming language and operating system of the project**
 
@@ -51,5 +49,3 @@ Depending on the project, the skills necessary will range from beginner to exper
 Every project has additional characteristics that they look for when selecting students and projects - however, if you meet the above basic criteria - chances are good that there are GSoC projects and organizations to which you can feel comfortable applying.
 
 **Pro Tip:** Don't be afraid to apply to projects where you only meet 51% of the listed requirements.  Include a section on how you'll compensate for or learn the missing skills - and demonstrate during the application process that you are working on acquiring those new skills.
-
-
