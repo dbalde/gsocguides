@@ -1,0 +1,31 @@
+---
+name: MarkdownLint
+
+on:
+  push:
+  pull_request:
+    branches: [master, main]
+
+#env:
+
+concurrency:
+  # https://docs.github.com/en/actions/using-jobs/using-concurrency
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+
+  build:
+    name: markdownlint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v3
+        with:
+          files: .
+          config_file: ".markdownlint.yaml"
+          #ignore_files: "examples/ignore/*"
+          #rules: "examples/rules/custom.js"

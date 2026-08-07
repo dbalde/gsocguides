@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM ruby:3.1
 MAINTAINER mrafayaleem@gmail.com
 
 RUN apt-get clean \
@@ -13,7 +13,7 @@ RUN apt-get update
 
 RUN apt-get install -y \
     nodejs \
-    python-pygments
+    python3-pygments
 
 RUN apt-get clean \
   && rm -rf /var/lib/apt/lists/

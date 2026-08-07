@@ -6,7 +6,7 @@ permalink: student/why-should-i-apply.html
 sidebar: student_sidebar
 ---
 
-So you've found out about this Google Summer of Code thing that requires you to submit a lengthy proposal and write a lot of code. Why bother about it at all? Well, here are some reasons why you should start writing your proposal today!
+So you've found out about this Google Summer of Code thing that requires you to reach out to an organization to talk about their project ideas, then submit a lengthy proposal and write a lot of code. Why bother about it at all? Well, here are some reasons why you should start reaching out to organizations that you are interested in today!
 
 **An absolutely amazing learning experience**
 
@@ -14,11 +14,11 @@ GSoC is a place where you don't just get to apply your skills but also get to ac
 
 "GSoC is one of the best professional experience a student can have during his college years. I've participated twice already, but now I'm starting to regret I didn't do this every year! Awesome! Thank you Google! "
 
-Evelina Vrabie, Sunlight Foundation, GSoc Student 2010
+Evelina Vrabie, Sunlight Foundation, GSoc Student
 
 "This is a big opportunity for all the students like us to use the things that we are learning in colleges in a practical manner. Thanks Google and all the mentoring organization for allocating your valuable time."
 
-Kasun (Lakpriya) Hettige, Apache Software Foundation (ASF), GSoC Student 2010
+Kasun (Lakpriya) Hettige, Apache Software Foundation (ASF), GSoC Student
 
 **Sense of achievement**
 
@@ -26,7 +26,7 @@ There is something very fulfilling about getting your first patch committed upst
 
 "I just want to say...it feels *awesome* when your first patch goes in.  Really awesome. "
 
-Mike Conley, Review Board, GSoC Student 2010
+Mike Conley, Review Board, GSoC Student
 
 **Hone your developer skills**
 
@@ -34,7 +34,7 @@ Students who are already active developers can apply themselves to a specific pr
 
 "At this time one of the most memorable incident happened in my life, where my mentor proposed me as a committer, and my ambition to become an Apache committer finally became true. "
 
-S. Suhothayan, ASF, GSoC Student 2010
+S. Suhothayan, ASF, GSoC Student
 
 **Getting involved and building your network**
 
@@ -42,11 +42,11 @@ During the 12 weeks of writing good code, you interact and share ideas with some
 
 "Exciting and challenging. I met kind, knowledgeable and smart people all gathered in a single place, united, working for a single goal. "
 
-José Luis Vergara Toloza, KDE, GSoC Student 2010
+José Luis Vergara Toloza, KDE, GSoC Student
 
 "Summer of Code is about much more than just code. The sheer fun of integrating with the open-source community and your mentoring organization can in fact outweigh the gratification of actual coding. "
 
-Kamran Khan, Ubuntu, GSoC Student 2010
+Kamran Khan, Ubuntu, GSoC Student
 
 **Your spring-board to the open source world**
 
@@ -54,14 +54,16 @@ GSoC is a great place to get you jump started and up to speed on the basics of t
 
 "GSoC 2010 was my first real foray into the Open Source World -- I had been teetering at just the edge of actual contribution for a few years, having tried out WordPress, etc. but had never actually ever submitted a patch, or released a project. "
 
-Kunal Bhalla, WordPress, GSoC Student 2010
+Kunal Bhalla, WordPress, GSoC Student
 
 **For the love of code**
 
 If you enjoy coding and feel passionate about writing good quality code and building great software, GSoC is THE place for you to give way to your passion. After all, what better way is there to celebrate your love for the code by participating in a summer of code.
 
-**The stipend and the fame**
+**Being mentored by highly experienced developers**
 
-One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive. 
+GSoC at its heart is a mentorship program. The mentors are dedicated, passionate volunteers who want to help GSoC Contributors learn about their communities and teach them how to be great open source contributors. Having the opportunity to be guided by people who have been doing this for many years and who know the tips and tricks can only help you be a better, more confident open source developer.
 
+**The stipend and the confidence**
 
+One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. You won't get rich participating in GSoC as a Contributor, but the money can certainly help while you are building your skills and doing meaningful contributions. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive.

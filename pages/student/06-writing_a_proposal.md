@@ -6,33 +6,31 @@ permalink: student/writing-a-proposal.html
 sidebar: student_sidebar
 ---
 
-This is a competitive program, each year Google turns down many more students than it funds. While pre-proposal activities are key to improving your chances of success, a poorly-written proposal is an easy way to fail. There is much you can do to ensure that your project proposal catches the attention of organization reviewers *in a positive way.*
-
+This is a competitive program, each year Google turns down many more applicants than it funds. While pre-proposal activities are key to improving your chances of success, a poorly-written proposal is an easy way to fail. There is much you can do to ensure that your project proposal catches the attention of organization reviewers _in a positive way._
 
 ## The Basics
 
-First and foremost, make sure you meet Google's formal requirements for participation in Summer of Code. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
+First and foremost, make sure you meet [Google's formal requirements](https://summerofcode.withgoogle.com/rules#:~:text=for%20the%20duration%20of%20the%20Program%2C%20be%20eligible%20to%20work%20in%20the%20country%20in%20which%20they%20reside%3B%20and) for participation in Summer of Code. This includes ensuring that you are **eligible to work** in the country where you reside for the duration of the program. Remember, if you are in a country on a student visa or another type of visa you could have restrictions on the number of hours you can participate in a program like GSoC or you may not be eligible to participate at all. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
 
-Inventory your time. Figure out how many hours per week are already spoken for outside of your GSoC commitment, including time spent volunteering for other projects and activities, and counting credit-hours of University instruction. GSoC should be treated as a full-time job.  If you have more than a few hours a week of extra commitments, you probably should skip GSoC; it is unlikely that you will be successful. In any case, be completely clear about outside time commitments as part of your proposal. Do not surprise an organization with your time commitments later on.
+Inventory your time. Figure out how many hours per week are already spoken for outside of your GSoC commitment, including time spent volunteering for other projects and activities, a part-time job or counting credit-hours of academic instruction. In any case, be completely clear about outside time commitments as part of your proposal. If you know you need to take a couple of weeks off because of finals or a wedding, etc. be upfront with the mentors, we have added some flexibility into the program so this should be fine, you just need to let your mentor know as soon as you know the details. Do not surprise an organization with your time commitments later on. It may be possible to extend the end date of your project if your org will allow it. But this should be discussed early on so everyone can be on the same page.
 
-Make sure that you are able to be in regular close contact with organization mentors via the usual open source means (email, chat, etc) for the duration of the Summer. It is not necessary that you be geographically near your mentor. However, if you are not sure you will have good Internet connectivity continuously over the summer, GSoC is not for you.
+Make sure that you are able to be in regular close contact with organization mentors via the usual open source means (email, chat, etc) for the duration of the program. It is not necessary (or likely possible) that you be geographically near your mentor. However, if you are not sure you will have good Internet connectivity continuously over the summer, GSoC is not for you.
 
-This program is the Google Summer of *Code.*  If you are less than fluent in the programming languages that your target organization uses, you might want to skip the work of writing an application. If you do decide to proceed, be clear about your level of ability, so that the organization can make an informed decision.
-
+This program is the Google Summer of _Code._ If you are less than fluent in the programming languages that your target organization uses, you might want to skip the work of writing an application. If you do decide to proceed, be clear about your level of ability, so that the organization can make an informed decision.
 
 ## Elements of a Quality Proposal
 
-Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap.
+Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap. Be especially careful to follow their instructions on using (or not using) AI-generated materials. Using AI-generated materials is an automatic reject for some orgs.
 
 There are certain elements of the proposal that should apply to every organization. Proper attention to these elements will greatly improve your chances of a successful proposal.
 
 **Name and Contact Information**
 
-Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, postal address and telephone number. 
+Putting your full name on the proposal is not enough. Provide full contact information, including your preferred name, email address, websites, etc.
 
 **Title**
 
-Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis.
+Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis. Do not put your name in the title. Many orgs suggest using the name of the project idea or something similar in your title to make it easier to differentiate which project idea your proposal is for.
 
 **Synopsis**
 
@@ -40,7 +38,7 @@ If the format allows, start your proposal with a short summary, designed to conv
 
 **Benefits to Community**
 
-Don't forget to make your case for a benefit to the organization, not just to yourself.  Why would Google and your organization be proud to sponsor this work? How would open source or society as a whole benefit? What cool things would be demonstrated?
+Don't forget to make your case for a benefit to the organization, not just to yourself. Why would Google and your organization be proud to sponsor this work? How would open source or society as a whole benefit? What cool things would be demonstrated?
 
 **Deliverables**
 
@@ -56,48 +54,45 @@ Keep your personal info brief. Be sure to communicate personal experiences and s
 
 **Follow the Rules**
 
-Most organizations accept only plain text applications. Most organizations have a required application format. Many organizations have application length limits. In general, organizations *will* throw out your proposal if you fail to conform to these guidelines. If you feel you *must* have graphical or interactive content associated with your application, put just this content (not a copy of your proposal) on the web and provide an easy-to-type URL. Do not expect reviewers to follow this link.
+You will need to generate a PDF version of your proposal to upload.
 
+Many organizations have a required application format or other guidelines including application length limits.
+In general, organizations _will_ throw out your proposal if you fail to conform to any guidelines they specify.
 
-## Submit a Draft Proposal early
+You should take the time to polish your proposal.  Make it look professional, and be sure to have detailed information
+about your plans.
 
-Submit your draft proposal early during the application period so that the organization mentors can review it and ask you questions or request more detail on aspects of your proposal before the final deadline.
+## Submit a Proposal early
 
-Remember, thousands of students are submitting proposals so it can take organizations a few days or even a week+ to get back to you if they have questions. So the earlier you submit a well written draft proposal, the more time they have to give you feedback on it so you can make it stronger and understand more of what they are looking for.
+Submit your proposal early during the application period so that the organization mentors can review it and ask you questions or request more detail on aspects of your proposal before the final deadline. You can edit the proposal as many times as you wish before the application deadline. You may even want to label the proposal as a draft so it is clear you are looking for feedback before submitting the final proposal.
 
-Follow the instructions from the organizations on the content and format of your proposal and use the GSoC program site instructions on successfully submitting and sharing a draft to the organization. You must create the draft and write an abstract before sharing the draft with the organization.
+Remember, thousands of potential GSoC contributors are submitting proposals so it can take organizations a few days or even a week+ to get back to you if they have questions. So the earlier you submit a well written draft proposal, the more time they have to give you feedback on it so you can make it stronger and understand more of what they are looking for.
 
-You can edit the draft as many times as you wish before the application deadline.
+Follow the instructions from the organizations on the content and format of your proposal.
 
-
-## Submitting a Final PDF Proposal
-
-**Before the application period closes you must submit a Final PDF Proposal** - this must be done for your proposal to be considered for the GSoC program. If you only submit a draft and fail to submit the Final PDF Proposal the organizations will not be able to see your proposal and therefore will not be able to accept you - it is an automatic reject from the system.
-
-Follow the instructions on the GSoC site and the process is quite straightforward.
-
+Remember to submit your final draft before Google's deadline, regardless of if you have received any feedback or not from the org. If you do not have a proposal submitted in the GSoC webapp by the deadline there will be nothing for the org to look at. There are absolutely no extensions to deadlines in GSoC proposal submissions for anyone, ever.
 
 ## Outside the Project List
 
-Some organizations allow students to propose work that is not on their official Ideas Page. This can be a great opportunity to get your proposal on the top of the stack. Reviewers tend to get excited about a student that goes beyond a direct response and enthusiastically proposes work that is novel and creative.
+Some organizations allow GSoC contributors to propose work that is not on their official Ideas Page. This can be a great opportunity to get your proposal on the top of the stack. Reviewers tend to get excited about a GSoC contributor that goes beyond a direct response and enthusiastically proposes work that is novel and creative.
 
 However, original proposals are also riskier; their flaws will be much more apparent. Here's some of the ways that such proposals fail:
 
 **Projects without a mentor**
 
-Try to make sure that someone in the organization would be competent to work with you.
+Try to make sure that someone in the organization would be willing and competent to work with you.
 
 **Projects that better belong with other Summer of Code organizations**
 
-Open source organizations try hard to avoid stepping on each other's turf. Try to find your best customer.
+Open source organizations try hard to avoid stepping on each other's turf. Try to find your best fit.
 
 **Projects that represent too large a scope**
 
-The time flies by quickly. If you have a large project, break it into small, coherent pieces and propose to get the first couple of them done. That way the organization can be confident that they will get at least one good piece of work out of you.
+The time flies by quickly. If you have a large project, break it into small, coherent pieces and propose to get the first couple of them done. That way the organization can be confident that you can complete a project in the allotted time and the project isn't left incomplete indefinitely.
 
 **Incoherent proposals**
 
-The organization needs to see a clearly delimited, contained piece of work. If the organization can't understand or define the work, the proposal will be thrown out.
+The organization needs to see a clearly contained piece of work. If the organization can't understand or define the work, the proposal will be thrown out.
 
 **Projects that are "inappropriate" for legal or social reasons**
 
@@ -105,14 +100,13 @@ If your proposal is near the boundary, make sure you clear it with your target o
 
 **Boring projects**
 
-For the mentor and the organization, half the fun is helping a student do something novel and cool. Infrastructure *per se* isn't necessarily boring, but it should be part of a luminous vision.
+For the mentor and the organization, half the fun is helping a GSoC contributor do something novel and cool. Infrastructure _per se_ isn't necessarily boring, but it should be part of a luminous vision.
 
 **Stuff that's already been done to death**
 
 Novel work should be novel. Surprise.
 
 Even given this list, there's plenty of room for cool work. Given the opportunity, you should seriously consider taking advantage and writing a proposal that differentiates you.
-
 
 ## General Notes
 
@@ -122,6 +116,4 @@ Most organizations are risk averse. It is better for everyone if your project is
 
 Integrate and leverage existing open source code in your project. Only propose to write something yourself if you cannot get it any other way.
 
-The "Pencils Down" deadline for your project to be complete is usually sometime in mid-August. This will come sooner than you think.
-
-
+The "Pencils Down" deadline for your project to be completed will come sooner than you think.

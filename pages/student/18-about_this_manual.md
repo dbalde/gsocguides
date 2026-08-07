@@ -17,13 +17,14 @@ An update of the manual was done in December 2017 and what was quite impressive
 is how few changes had to be made as all of the advice the original authors gave
 in this manual still stand today.
 
-In October 2017, the guide moved from <http://www.flossmanuals.net> to GitHub.
+Another update was done in November 2021 to reflect the eligibility and
+flexibility changes to the GSoC program for 2022.
 
+In October 2017, the guide moved from <http://www.flossmanuals.net> to GitHub.
 
 ## How to Contribute to This Manual
 
 See the CONTRIBUTING file in the source repository.
-
 
 ## About the Authors
 
@@ -61,7 +62,7 @@ Selena is a major contributor to the PostgreSQL project. She founded Open Source
 
 **Carol Smith**
 
-Carol works for the Open Source Programs Office at Google administering the Google Summer of Code program. She has worked at Google for 5 years in a variety of positions. She has a degree in photojournalism from California State University, Northridge and is an avid cyclist.
+Carol worked for the Open Source Programs Office at Google administering the Google Summer of Code program. She worked at Google for 6+ years in a variety of positions. She has a degree in photojournalism from California State University, Northridge and is an avid cyclist.
 
 <http://www.fossygirl.com>
 
@@ -71,6 +72,9 @@ Malveeka is currently a graduate student in the CS dept at UC, San Diego. She pa
 
 <http://cseweb.ucsd.edu/~mtewari/>
 
+**Stephanie Taylor** (2011-current)
+
+Stephanie is the GSoC lead (since 2015) and has worked at Google in the Open Source Programs Office since 2011. Stephanie also led the Google Code-in program for teens that ended in 2020. Stephanie loves adventure travel and discovering the best hot chocolates around the world.
 
 ## 2009 Participants
 
@@ -86,7 +90,6 @@ Leslie held various roles at Google before joining the Open Source Programs Offi
 
 <http://www.hawthornlandings.org>
 
-
 ## Facilitation (2009 & 2010)
 
 The Book Sprints were facilitated by:
@@ -95,5 +98,4 @@ The Book Sprints were facilitated by:
 
 Adam is the founder of FLOSS Manuals and project manager for Booki. FLOSS Manuals is a community of 1500 (at the time of writing) volunteers that create quality free documentation about free software. FLOSS Manuals is pioneering the Book Sprint methodology that enables the development of well written manuals on free software in 2-5 days. Adam has facilitated over 15 Book Sprints on Free Software including Inkscape, OLPC, Sugar, CiviCRM, Firefox, Introduction to the Command Line, Digital Foundations (conversion to free software examples), Ogg Theora, How to Bypass Internet Censorship, Open Translation Tools, PureData, Video Subtitling and now the Google Summer of Code Mentors Guide. Adam is also the Project Manager for the development of 'Booki' - the free software Collaborative Authoring Platform (see below).
 
-adam@flossmanuals.net
-
+<adam@flossmanuals.net>
